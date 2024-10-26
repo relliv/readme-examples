@@ -4,6 +4,10 @@ You may need to show your work preview in GIF format. In some cases you you can 
 
 There are many tools to convert video to GIF. Here are some of them:
 
+## Cross-Platform
+
+<!-- to be filled... -->
+
 ## Windows
 
 <!-- to be filled... -->
@@ -14,4 +18,4 @@ There are many tools to convert video to GIF. Here are some of them:
 
 ## MacOs
 
-<!-- to be filled... -->
+- [Gifski](https://github.com/sindresorhus/Gifski): High-quality GIF encoder. Simple usage and high-quality output.
