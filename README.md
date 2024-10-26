@@ -8,4 +8,4 @@ This repository contains examples of how to write a `README.md` file for specifi
 
 ## Examples
 
-- [package](./package.md)
+- [package](./examples/package.md)
